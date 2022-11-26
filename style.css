@@ -1,0 +1,73 @@
+ 
+ 
+*{
+    margin-left: 20px;
+    background-color: rgb(0, 0, 0);
+}
+ 
+#line{
+    color: white;
+    margin-left: 20px;
+    width: 15%;
+}
+ 
+#title{
+    color: white;
+    margin-top: 60px;
+    font-size: 50px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    
+}
+ 
+#counter{
+    display: inline;
+    color: rgb(151, 67, 151);
+    font-family: 'Poppins', sans-serif;
+    font-weight: 200;
+}
+ 
+#num{
+    display: inline;
+    margin-left: 0;
+    color: aliceblue;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 200;
+    font-size: 20px;
+}
+ 
+#warning{
+    color: rgb(0, 0, 0);
+    font-family: 'Poppins', sans-serif;
+    font-weight: 200;
+    font-size: 23px;
+}
+ 
+.btn{
+    padding: 10px;
+    width: 180px;
+    background-color: wheat;
+    color: rgb(0, 0, 0);
+    border-color: rgb(255, 255, 255);
+}
+ 
+/* #decrement{
+    padding: 10px;
+    width: 180px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+}
+ 
+#increment{
+    padding: 10px;
+    width: 180px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+} */
+ 
+#reset{
+    padding: 10px;
+    width: 180px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
